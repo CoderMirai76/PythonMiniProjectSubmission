@@ -1,0 +1,2 @@
+# PythonMiniProject
+ Pygame is used
